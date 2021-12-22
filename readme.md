@@ -1,4 +1,4 @@
-# Rank Interactive Assesment
+# Rank Interactive Assessment
 
 ## Development
 
